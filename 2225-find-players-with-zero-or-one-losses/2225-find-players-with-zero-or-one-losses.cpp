@@ -28,34 +28,6 @@ public:
         return {v1,v2};
         
         
-//         map<int, int> loseCount; 
-//     map<int, int> winCount;  
 
-//     for (const auto& match : matches) {
-//         int winner = match[0];
-//         int loser = match[1];
-
-//         winCount[winner]++;
-//         winCount[loser]++;  
-
-//         loseCount[loser]++;
-//     }
-
-//     vector<int> noLossPlayers, oneLossPlayers;
-
-//     for (const auto& player : winCount) {
-//         int playerID = player.first;
-//         if (loseCount.find(playerID) == loseCount.end()) {
-//             noLossPlayers.push_back(playerID);
-//         } 
-//         else if (loseCount[playerID] == 1) {
-//             oneLossPlayers.push_back(playerID);
-//         }
-//     }
-
-//     sort(noLossPlayers.begin(), noLossPlayers.end());
-//     sort(oneLossPlayers.begin(), oneLossPlayers.end());
-
-//     return {noLossPlayers, oneLossPlayers};
     }
 };
