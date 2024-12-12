@@ -7,7 +7,7 @@ public:
             mp[nums[i]]++;
         }
         
-        vector<int> v;
+        
         int Xor = 0;
         for(auto x : mp){
             if(x.second == 2){
