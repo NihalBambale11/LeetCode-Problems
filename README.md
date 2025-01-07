@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Union Find
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Graph
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
