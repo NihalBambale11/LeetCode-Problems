@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1041-available-captures-for-rook) |
+## Stack
+|  |
+| ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
