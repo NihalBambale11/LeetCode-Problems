@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
