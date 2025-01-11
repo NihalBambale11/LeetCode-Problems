@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -79,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
