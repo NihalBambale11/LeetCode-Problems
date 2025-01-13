@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2386-min-max-game](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2386-min-max-game) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1041-available-captures-for-rook) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
 ## Simulation
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1041-available-captures-for-rook) |
 | [2386-min-max-game](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2386-min-max-game) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+## Sorting
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
