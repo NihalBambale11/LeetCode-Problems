@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2792-neighboring-bitwise-xor](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3330-modify-the-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## String
 |  |
 | ------- |
@@ -111,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2792-neighboring-bitwise-xor](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 <!---LeetCode Topics End-->
