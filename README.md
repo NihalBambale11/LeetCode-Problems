@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
