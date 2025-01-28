@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0690-employee-importance](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0871-keys-and-rooms](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0690-employee-importance](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0690-employee-importance) |
+| [0871-keys-and-rooms](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
