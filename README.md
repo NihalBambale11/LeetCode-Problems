@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0690-employee-importance](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [1041-available-captures-for-rook](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1041-available-captures-for-rook) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0690-employee-importance) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 ## Heap (Priority Queue)
