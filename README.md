@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
