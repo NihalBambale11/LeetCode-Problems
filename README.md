@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2386-min-max-game](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2386-min-max-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
