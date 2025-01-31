@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0690-employee-importance](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [1041-available-captures-for-rook](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1041-available-captures-for-rook) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0690-employee-importance) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
