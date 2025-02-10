@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2580-circular-sentence](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2580-circular-sentence) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3447-clear-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
