@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3330-modify-the-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3429-special-array-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## String
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3164-last-visited-integers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3164-last-visited-integers) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
