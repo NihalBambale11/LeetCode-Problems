@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -244,12 +246,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1581-the-k-strongest-values-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
