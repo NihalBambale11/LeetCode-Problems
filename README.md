@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1013-fibonacci-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Number Theory
@@ -279,4 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
