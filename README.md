@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1542-consecutive-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Counting
