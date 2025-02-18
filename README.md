@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2619-categorize-box-according-to-criteria](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2619-categorize-box-according-to-criteria) |
 ## Number Theory
 |  |
 | ------- |
