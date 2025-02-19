@@ -1,21 +1,26 @@
 class Solution {
 public:
-    int minMoves(long long target, int maxDoubles) {
-        long long count = 0;
-
-        while (target != 1) {
-            if (maxDoubles == 0) {
-                return count+(target - 1);
-            }
-            if (maxDoubles != 0 && (target % 2 == 0)) {
-                target = target / 2;
-                maxDoubles--;
-                count++;
-            } else {
-                target = target - 1;
-                count++;
-            }
+    int minMovesRecursion(int target,int maxDoubles,int count){
+        if(target == 1){
+            return count;
         }
-        return count;
+
+        if(maxDoubles == 0){
+            return count + (target-1);
+        }
+
+        if(maxDoubles != 0 && (target % 2 == 0 )){
+            return minMovesRecursion(target/2,maxDoubles-1,count+1);
+        }
+
+        return minMovesRecursion(target-1,maxDoubles,count+1);
+
     }
+
+    int minMoves(int target, int maxDoubles) {
+        int count = 0;
+       return minMovesRecursion(target,maxDoubles,count);
+    }
+
+
 };
