@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
