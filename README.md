@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1041-available-captures-for-rook) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1552-build-an-array-with-stack-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1708-design-parking-system](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
