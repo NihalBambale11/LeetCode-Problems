@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
+| [1552-build-an-array-with-stack-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1041-available-captures-for-rook) |
+| [1552-build-an-array-with-stack-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1708-design-parking-system](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2386-min-max-game](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2386-min-max-game) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1552-build-an-array-with-stack-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3447-clear-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Tree
