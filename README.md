@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1708-design-parking-system](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1708-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2169-simple-bank-system) |
