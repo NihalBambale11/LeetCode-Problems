@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3164-last-visited-integers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3164-last-visited-integers) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3330-modify-the-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3164-last-visited-integers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3164-last-visited-integers) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2433-best-poker-hand](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2433-best-poker-hand) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
