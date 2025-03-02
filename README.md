@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2792-neighboring-bitwise-xor](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Prefix Sum
 |  |
 | ------- |
