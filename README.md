@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0690-employee-importance](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0932-monotonic-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1041-available-captures-for-rook](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1041-available-captures-for-rook) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
