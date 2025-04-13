@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0690-employee-importance](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0690-employee-importance) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0540-single-element-in-a-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
