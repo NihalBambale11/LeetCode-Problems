@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
