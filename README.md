@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1500-count-largest-group](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2619-categorize-box-according-to-criteria](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2619-categorize-box-according-to-criteria) |
 ## Number Theory
