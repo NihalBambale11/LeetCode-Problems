@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3429-special-array-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3632-button-with-longest-push-time](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3632-button-with-longest-push-time) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
 |  |
 | ------- |
