@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2378-sender-with-largest-word-count](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2386-min-max-game](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2386-min-max-game) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2433-best-poker-hand](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2433-best-poker-hand) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
