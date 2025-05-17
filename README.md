@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
