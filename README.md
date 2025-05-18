@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0807-custom-sort-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [1078-remove-outermost-parentheses](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0690-employee-importance](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0797-rabbits-in-forest](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0807-custom-sort-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0807-custom-sort-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1581-the-k-strongest-values-in-an-array) |
