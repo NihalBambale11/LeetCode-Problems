@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-count-tested-devices-after-test-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3321-type-of-triangle](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
+| [3321-type-of-triangle](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2619-categorize-box-according-to-criteria](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2619-categorize-box-according-to-criteria) |
+| [3321-type-of-triangle](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Number Theory
 |  |
