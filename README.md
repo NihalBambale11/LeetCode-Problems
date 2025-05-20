@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3330-modify-the-matrix) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2433-best-poker-hand) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2728-sum-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3321-type-of-triangle](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
