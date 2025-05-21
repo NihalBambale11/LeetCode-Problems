@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0932-monotonic-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1041-available-captures-for-rook](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1041-available-captures-for-rook) |
+| [1046-max-consecutive-ones-iii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Dynamic Programming
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
