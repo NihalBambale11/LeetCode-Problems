@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2378-sender-with-largest-word-count](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2580-circular-sentence](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2580-circular-sentence) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
