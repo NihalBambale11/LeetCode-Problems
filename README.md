@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2580-circular-sentence](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2580-circular-sentence) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3447-clear-digits) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2433-best-poker-hand) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2433-best-poker-hand](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2433-best-poker-hand) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
