@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3164-last-visited-integers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3164-last-visited-integers) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3194-find-words-containing-character](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2580-circular-sentence) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3194-find-words-containing-character](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
