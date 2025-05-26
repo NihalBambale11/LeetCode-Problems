@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3429-special-array-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3429-special-array-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3632-button-with-longest-push-time](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3632-button-with-longest-push-time) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -426,4 +427,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
