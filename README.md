@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0135-candy](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
