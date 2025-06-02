@@ -15,11 +15,11 @@ public:
             }
         }
 
-        int sum = 0;
-        for(int i = 0; i < v.size() ; i++){
-            sum = sum + v[i];
-        }
+        // int sum = 0;
+        // for(int i = 0; i < v.size() ; i++){
+        //     sum = sum + v[i];
+        // }
 
-        return sum;
+        return accumulate(v.begin() ,v.end() , 0);
     }
 };
