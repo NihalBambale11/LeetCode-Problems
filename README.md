@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
