@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2580-circular-sentence) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2433-best-poker-hand) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting
 |  |
