@@ -27,7 +27,9 @@ public:
             st.pop();
         }
         while (!st.empty()) {
-            if (st.top() == 'R') count++;
+            if (st.top() == 'R') {
+                count++;
+            }
             st.pop();
         }
 
