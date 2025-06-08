@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2317-count-collisions-on-a-road](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2317-count-collisions-on-a-road) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2378-sender-with-largest-word-count](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2169-simple-bank-system](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2169-simple-bank-system) |
+| [2317-count-collisions-on-a-road](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2317-count-collisions-on-a-road) |
 | [2386-min-max-game](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2386-min-max-game) |
 | [2551-apply-operations-to-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2317-count-collisions-on-a-road](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2317-count-collisions-on-a-road) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Tree
