@@ -1,21 +1,22 @@
 class Solution {
 public:
     int maxDifference(string s) {
-        map<char ,int> mp;
-        int emini = INT_MAX;
-        int omaxi = 0;
-        for(int i = 0 ; i < s.length(); i++){
-            mp[s[i]]++;
+        map<char,int> mp;
+        for(char x : s){
+            mp[x]++;
         }
 
+        int maxiodd = 0;
+        int minieven = INT_MAX;
         for(auto x : mp){
-            if(x.second % 2 == 0){
-                emini = min(emini,x.second);
+            if((x.second) % 2 == 0){
+                minieven = min(minieven , x.second);
             }
             else{
-                omaxi = max(omaxi,x.second);
+                maxiodd = max(maxiodd,x.second);
             }
         }
-        return (omaxi-emini);
+
+        return maxiodd - minieven;
     }
 };
