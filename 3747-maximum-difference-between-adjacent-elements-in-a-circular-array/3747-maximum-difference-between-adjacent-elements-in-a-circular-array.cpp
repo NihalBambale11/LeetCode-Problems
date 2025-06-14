@@ -1,13 +1,19 @@
 class Solution {
 public:
     int maxAdjacentDistance(vector<int>& nums) {
-        int diff = 0;
+        
+        int maxi = helperFunction(nums,0,0);
+        maxi = max(abs(nums[0] - nums[nums.size()-1]) , maxi );
+        return maxi;
 
-        for(int i = 0 ; i < nums.size()-1 ; i++){
-            diff = max((abs(nums[i]-nums[i+1])),diff);
+    }
+
+    int helperFunction(vector<int> nums,int i , int maxii){
+        if(i == nums.size()-1){
+            return maxii;
         }
 
-        diff = max(diff , (abs(nums[0] - nums[nums.size()-1])));
-        return diff;
+        maxii = max(abs(nums[i] - nums[i+1]) , maxii  );
+        return helperFunction(nums,i+1,maxii);
     }
 };
