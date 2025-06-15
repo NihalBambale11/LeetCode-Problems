@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Counting
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2619-categorize-box-according-to-criteria](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2619-categorize-box-according-to-criteria) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3321-type-of-triangle](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Number Theory
