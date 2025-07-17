@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2169-simple-bank-system](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2169-simple-bank-system) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2317-count-collisions-on-a-road](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2317-count-collisions-on-a-road) |
 | [2386-min-max-game](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2386-min-max-game) |
 | [2551-apply-operations-to-an-array](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/1500-count-largest-group) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2619-categorize-box-according-to-criteria](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2619-categorize-box-according-to-criteria) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/NihalBambale11/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
